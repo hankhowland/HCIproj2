@@ -93,7 +93,7 @@ Check the homework instructions in the class wiki.
 
 ### 7.1 Unity intro sequence
 
-**We highly recommend you start by completing this tutorial**: https://docs.unity3d.com/ScriptReference/
+**We highly recommend you start by completing this tutorial**: https://learn.unity.com/project/survival-shooter-tutorial
 
 ### 7.2 Unity's interface
 
